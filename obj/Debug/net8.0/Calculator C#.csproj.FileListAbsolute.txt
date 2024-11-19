@@ -1,0 +1,14 @@
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\bin\Debug\net8.0\Calculator C#.exe
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\bin\Debug\net8.0\Calculator C#.deps.json
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\bin\Debug\net8.0\Calculator C#.runtimeconfig.json
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\bin\Debug\net8.0\Calculator C#.dll
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\bin\Debug\net8.0\Calculator C#.pdb
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.AssemblyInfoInputs.cache
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.AssemblyInfo.cs
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.csproj.CoreCompileInputs.cache
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.dll
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\refint\Calculator C#.dll
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.pdb
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.genruntimeconfig.cache
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\ref\Calculator C#.dll
