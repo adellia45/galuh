@@ -12,3 +12,4 @@ C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\
 C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.pdb
 C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.genruntimeconfig.cache
 C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\ref\Calculator C#.dll
+C:\Users\Adellia Indra\Desktop\kalkulator\Calculator C#\Calculator C#\obj\Debug\net8.0\Calculator C#.sourcelink.json
